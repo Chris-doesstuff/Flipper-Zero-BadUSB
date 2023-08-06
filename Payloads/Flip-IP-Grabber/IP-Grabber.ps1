@@ -91,7 +91,7 @@ param (
     [string]$text 
 )
 
-$hookurl = "$dc"
+$hookurl = "chris019."
 
 $Body = @{
   'username' = $env:username
